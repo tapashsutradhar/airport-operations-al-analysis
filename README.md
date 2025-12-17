@@ -1,5 +1,5 @@
 # ✈️ Airport Operations AI Business Management & Data Analysis Project
-AI-driven business management and data analysis project for airport operational difficulties, providing insights and forecasting passenger traffic, delays, and resource utilization.
+AI-driven business management and data analysis project for airport operational difficulties, providing insights and forecasting passenger traffic, delays, and resource utilization. Net data analysis and AI-based business management project analyzing airport department operational challenges, performance metrics, and forecasting future risks.
 
 ## 📌 Project Overview
 
